@@ -58,4 +58,4 @@ String tingkat kejahatan (F, E, D, C, B, A)
 ## NOTE
 Yang di kerjakan hanya kelas-kelas yang menampung villains dan supervillain serta kelas GCPD
 
-Untuk Main Kelas tidak perlu di kerjakan
+Untuk Main kelas hanya menampilkan data villains dan supervillain tanpa menu
