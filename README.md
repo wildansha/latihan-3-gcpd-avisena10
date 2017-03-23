@@ -59,3 +59,7 @@ String tingkat kejahatan (F, E, D, C, B, A)
 Yang di kerjakan hanya kelas-kelas yang menampung villains dan supervillain serta kelas GCPD
 
 Untuk Main kelas hanya menampilkan data villains dan supervillain tanpa menu
+
+
+Nama  : Avisena Abdillah Alwi
+NIM   : 165150200111126
