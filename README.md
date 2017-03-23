@@ -53,3 +53,9 @@ String tingkat kejahatan (F, E, D, C, B, A)
 - Berat: 80 kg
 - Jenis kelamin: L
 - Tingkat kejahatan: B
+
+
+## NOTE
+Yang di kerjakan hanya kelas-kelas yang menampung villains dan supervillain serta kelas GCPD
+
+Untuk Main Kelas tidak perlu di kerjakan
