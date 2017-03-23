@@ -13,7 +13,7 @@ Sebagai asisten dari James Gordon, buatlah program untuk mendata para penjahat d
 Keterangan: 
 - untuk input penjahat, ada beberapa hal yang perlu di perhatikan. Yang perlu di input adalah nama, alias, tinggi, berat, jenis kelamin, tingkat kriminalitas (urutan dari yang rendah: F, E, D, C, B, A). Namun tidak semua data tersebut tersedia. Maka jika tidak ada infonya, akan di tampilkan None /null (utk string) atau 0 (utk int)
 - menu lihat penjahat di bagi menjadi dua. Melihat data supervillains dan data penjahat. Ingat jangan sampai tercampur
-3. Buat kelas GCPD yang akan menyimpan penjahat tersebut. Anda di perbolehkan menggunakan konsep rak dan buku pada tugas praktikum minggu lalu atau menyimpan dalam array. Yang ditekankan adalah pada kelas ini ada beberapa overloading constructor yang bergantung dengan input. Ingat jika tidak ada keterangan maka yang disimpan adalah None /null (utk string) atau 0 (utk int)
+3. Buat kelas GCPD yang akan menyimpan penjahat tersebut.Gunakan konsep kelas komposisi yang sudah di ajarkan. Yang ditekankan adalah pada kelas ini ada beberapa overloading constructor yang bergantung dengan input. Ingat jika tidak ada keterangan maka yang disimpan adalah None /null (utk string) atau 0 (utk int)
 - note:
 String nama
 String alias
