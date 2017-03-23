@@ -9,6 +9,7 @@ Sebagai asisten dari James Gordon, buatlah program untuk mendata para penjahat d
 2. Menu yang harus di buat adalah:
 - Input penjahat 
 - Lihat data penjahat.
+
 Keterangan: 
 - untuk input penjahat, ada beberapa hal yang perlu di perhatikan. Yang perlu di input adalah nama, alias, tinggi, berat, jenis kelamin, tingkat kriminalitas (urutan dari yang rendah: F, E, D, C, B, A, A+). Namun tidak semua data tersebut tersedia. Maka jika tidak ada infonya, akan di tampilkan None /null (utk string) atau 0 (utk int)
 - menu lihat penjahat di bagi menjadi dua. Melihat data supervillains dan data penjahat. Ingat jangan sampai tercampur
@@ -28,6 +29,7 @@ String tingkat kejahatan (F, E, D, C, B, A, A+)
 - Berat: 58 kg
 - Jenis kelamin: L
 - Tingkat kejahatan: A
+
 =======================
 - Nama: Yasumi Sazami
 - Alias: killer lady
@@ -35,6 +37,7 @@ String tingkat kejahatan (F, E, D, C, B, A, A+)
 - Berat: 46 kg
 - Jenis kelamin: P
 - Tingkat kejahatan: D
+
 =======================
 - Nama: Victor Fries
 - Alias: Mr Freeze
@@ -42,6 +45,7 @@ String tingkat kejahatan (F, E, D, C, B, A, A+)
 - Berat: 80 kg
 - Jenis kelamin: L
 - Tingkat kejahatan: A+
+
 =======================
 - Nama: Harvey Dent
 - Alias: Two-Face
